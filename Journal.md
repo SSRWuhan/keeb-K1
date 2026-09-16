@@ -21,14 +21,14 @@ Now, I have started on making the pcb, but as it seems I guess I will have to ma
 all switches in the right order and then satrt placing all the other components next. I was able to organize about 
 80% all keys so far. Also, I decided on adding a joystick to my project to simulate a mouse.
 
-![PCB](photos/photo3.png)
+![PCB](photos/picture3.png)
 
 ## time spent: 39 minutes, 54 seconds
 
 I first sorted all the keys in the PCB accordinng to their postions in the matrix. Then I finally began organizing everything 
 neatly on the Pcb for the final touches.
 
-![PCB](photos/photo4.png)
+![PCB](photos/picture4.png)
 
 ## time spent: 1hour, 6 minutes, 4 seconds
 
@@ -40,7 +40,7 @@ Future me: Turns out there actually was a faster way to do this by using grids a
 switches. Also I could have just placed them without leaving a little gap between them since the schematic already
 accounts for that. 
 
-![PCB](photos/photo5.png)
+![PCB](photos/picture5.png)
 
 ## time spent: 1hour, 8 min, 7 sec
 
