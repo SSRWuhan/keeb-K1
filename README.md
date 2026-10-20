@@ -14,3 +14,5 @@ PCB:
 
 Schematic:
 <img width="1207" height="654" alt="image" src="https://github.com/user-attachments/assets/96691f26-994d-4c88-953a-9ec4da5d77c3" />
+
+Please check the attached BOM.csv file in the repo
