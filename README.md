@@ -1,6 +1,8 @@
 # keeb-K1
 This is my keyboard design for the KEEB program from Hack Club.
 
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/<OWNER>/<REPOSITORY>/tree/main/pcb)
+
 ![Keyboard](photos/photo%2012.png)
 
 This is my very first keyboard! I have designed it so that you can have 6 configurable keys for macros or any other thing, along with joystick for scrolling or for using it as a mouse.
