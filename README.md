@@ -17,4 +17,6 @@ PCB:
 Schematic:
 <img width="1207" height="654" alt="image" src="https://github.com/user-attachments/assets/96691f26-994d-4c88-953a-9ec4da5d77c3" />
 
-Please check the attached BOM.csv file in the repo
+Please check the attached BOM.csv file in the repo.
+
+Additionally, the Onshape case files can be found here: [](https://cad.onshape.com/documents/2183f5a9dc3f528ae43e5df6/w/0ccfa23a812405eb4031eeb2/e/91c99f1be3f6a34f9f2042e3)
