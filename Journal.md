@@ -5,13 +5,16 @@ description: This is my keyboard design for the KEEB program from Hack Club.
 created_at: 2026-08-06
 ---
 
-## time spent: 19 Minutes, 24 Seconds
+# August 6: The start
 
 This time I made the folder for containing everything for this project. Also, i opened up KiCAD and 
 started working on making the keyboard. I didnt do much just placed the raspberry pi pi pico and some switch diode pairs 
 in the schematic.
 
 ![Schematic](photos/photo%201.png)
+
+**Total time spent: 19 Minutes, 24 Seconds**
+
 
 ## time spent: 55 minutes, 19 seconds
 
