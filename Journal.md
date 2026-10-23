@@ -13,7 +13,7 @@ in the schematic.
 
 ![Schematic](photos/photo%201.png)
 
-**Total time spent: 19 Minutes, 24 Seconds**
+**Total time spent: 0 h 19m**
 
 
 ## time spent: 55 minutes, 19 seconds
