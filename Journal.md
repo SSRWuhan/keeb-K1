@@ -5,7 +5,7 @@ description: This is my keyboard design for the KEEB program from Hack Club.
 created_at: 2026-08-06
 ---
 
-# August 6: The start
+## August 6: The start
 
 This time I made the folder for containing everything for this project. Also, i opened up KiCAD and 
 started working on making the keyboard. I didnt do much just placed the raspberry pi pi pico and some switch diode pairs 
@@ -16,7 +16,7 @@ in the schematic.
 **Total time spent: 19 Minutes, 24 Seconds**
 
 
-## time spent: 55 minutes, 19 seconds
+## August 8: Manually aligning every switch diode pair
 
 Well, things went a little sideways. When started to wire up all the switches into a grid I realized that
 they were not aligned properly. So, I then had to manually correct all of them to get them to finally
@@ -24,7 +24,11 @@ connect to the wires. I so far managed to connect all the rows and 7 of the 17 c
 Connecting will be a breeze.
 
 ![Schematic](photos/photo%202.png)
-## time spent: 1hour, 10 minutes, 47 seconds
+
+**Total time spent: 55 minutes, 19 seconds**
+
+
+## August 10: Ending of the schematic beggining of the PCB
 
 I have finally finished wiring up every single switch to the matrix, assign footprints and annotate all the components.
 Now, I have started on making the pcb, but as it seems I guess I will have to manually place
@@ -33,12 +37,23 @@ all switches in the right order and then satrt placing all the other components 
 
 ![PCB](photos/picture3.png)
 
-## time spent: 39 minutes, 54 seconds
+**Total time spent: 1 hour, 10 minutes, 47 seconds**
+
+
+## August 12: Ending of the schematic beggining of the PCB
 
 I first sorted all the keys in the PCB accordinng to their postions in the matrix. Then I finally began organizing everything 
 neatly on the Pcb for the final touches.
 
 ![PCB](photos/picture4.png)
+
+**Total time spent: 39 minutes, 54 seconds**
+
+
+
+
+
+
 
 ## time spent: 1hour, 6 minutes, 4 seconds
 
