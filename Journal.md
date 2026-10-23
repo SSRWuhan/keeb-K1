@@ -1,10 +1,14 @@
 ---
 title: keeb-K1
-github: ["Link to your Github Repo"](https://github.com/SSRWuhan/keeb-K1)
+github: https://github.com/SSRWuhan/keeb-K1
 description: This is my keyboard design for the KEEB program from Hack Club.
 created_at: 2026-08-06
 ---
+[![Made with KiCad](https://img.shields.io/badge/Made%20with-KiCad-7B61FF?style=for-the-badge&logo=kicad&logoColor=white)](https://www.kicad.org/)
 
+![Hack Club](https://img.shields.io/badge/Hack%20Club-KEEB-FF6B6B?style=for-the-badge)
+
+![Open Hardware](https://img.shields.io/badge/Open-Hardware-36CFC9?style=for-the-badge)
 ## time spent: 19 Minutes, 24 Seconds
 
 This time I made the folder for containing everything for this project. Also, i opened up KiCAD and 
